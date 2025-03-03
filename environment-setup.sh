@@ -1,5 +1,4 @@
 #!/bin/bash
-# Setup script for Nilfisk Service Manual RAG System
 
 # Create project structure
 mkdir -p data/pdfs data/processed logs
